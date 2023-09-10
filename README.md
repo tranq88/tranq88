@@ -1,6 +1,8 @@
-### Hi there 👋
+### contact: victor.yu1@outlook.com
 
 <!--
+### Hi there 👋
+
 **tranq88/tranq88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
